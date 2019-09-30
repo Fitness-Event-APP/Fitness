@@ -46,6 +46,8 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 * Utilize Google Map API
 
+* Social module for user-defined groups
+
 ## Product Survey
 * [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 * [Bostonusa](https://www.bostonusa.com/)
