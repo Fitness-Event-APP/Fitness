@@ -62,7 +62,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 #### Database
 
-* Firebase
+* Firebase( find the advantage of item, vs SQL)
 
 #### App
 
