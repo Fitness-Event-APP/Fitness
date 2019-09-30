@@ -50,6 +50,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 * [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 * [Bostonusa](https://www.bostonusa.com/)
 * [Boston Calendar](https://www.thebostoncalendar.com/)
+* [FitEvent](https://fitevents.com/)
 
 
 ## System Design
