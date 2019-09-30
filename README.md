@@ -12,11 +12,11 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 * I, as a soccer player, I would like to go to watch the soccer game/training match and share experience with those soccer enthusiasts.
 
-* As a girl who goes to gymnasium twice a week, I would like to know interesting surrounding fitness events, and take part in some activities I am interested in to spice my normal gym day up.
+* I, as a person who goes to gymnasium twice a week, I would like to know interesting surrounding fitness events, and take part in some activities I am interested in to spice my normal gym day up.
 
-* As a girl who usually goes to gymnasium alone, I would like to participate in some fitness events to learn new things and meet new friends.
+* I, as a person who usually goes to gymnasium alone, I would like to participate in some fitness events to learn new things and meet new friends.
 
-* As a girl who just starts working out at the gym, I would like to take part in various fitness events to find out what I really interested in.
+* I, as a person who just starts working out at the gym, I would like to take part in various fitness events to find out what I really interested in.
 
 * I, as a naive fitness keeper, want to find a lot of classes to find a sport which I can stick on.
 
