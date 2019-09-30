@@ -1,11 +1,10 @@
 # Fitness Event APP
--
 
-### Product Mission
+## Product Mission
 
 This App is majorly specific for the users who is wiling to exercise. It help users search for the nearby fitness events by locating users position. Provide different events about fitness to meet the various need of the public. Also, for those who are interested in the same field, they can share their information and organize a new event by themselves.
 
-### User Story
+## User Story
 
 * I, as an athlete, I would like to go to a place where hold a seminar about nutrition intake for the professional.
 
@@ -27,7 +26,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 * I, as a bodybuilder, want to join bootcamps to communicate and exchange experiences on building bodies.
 
-### Target Users
+## Target Users
 
 * Athelete
 
@@ -35,7 +34,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 * Person who want to keep fit
 
-### MVP
+## MVP
 
 * Background survey, Access to "join/create" an event.
 
@@ -47,13 +46,13 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 * Utilize Google Map API
 
-### Product Survey
+## Product Survey
 * [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 * [Bostonusa](https://www.bostonusa.com/)
 * [Boston Calendar](https://www.thebostoncalendar.com/)
 
 
-### System Design
+## System Design
 
 #### API
 
