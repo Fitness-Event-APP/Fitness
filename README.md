@@ -49,7 +49,12 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 * Social module for user-defined groups
 
 ## Product Survey
-* [Boston Calendar](https://www.thebostoncalendar.com/)
+#### [Boston Calendar](https://www.thebostoncalendar.com/)
+Majorly focus on finding under-publicized events around the city and surrounding areas for Bostonians (and non-locals).
+* <strong> Limits </strong>
+  * The number of event they collect is small.
+  * They don't have a category for fitness.
+
 #### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
 
@@ -63,7 +68,7 @@ Majorly focus on providing professtional training classes and formal events to u
 
 #### Limits:
 
-Most they presents are global events, holding in a location which is far away from most people. For most        people, they prefer choosing a event around their houses. 
+Most they presents are global events, holding in a location which is far away from most people. For most people, they prefer choosing a event around their houses. 
 
 ## System Design
 
