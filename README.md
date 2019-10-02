@@ -53,6 +53,13 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 * [Boston Calendar](https://www.thebostoncalendar.com/)
 * [FitEvent](https://fitevents.com/)
 
+#### FitEvent: 
+
+Majorly focus on providing professtional training classes and formal events to users. 
+
+#### Limits:
+
+Most they presents are global events, holding in a location which is far away from most people. For most        people, they prefer choosing a event around their houses. 
 
 ## System Design
 
