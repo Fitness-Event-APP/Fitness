@@ -49,11 +49,15 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 * Social module for user-defined groups
 
 ## Product Survey
-* [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 * [Boston Calendar](https://www.thebostoncalendar.com/)
-* [FitEvent](https://fitevents.com/)
+#### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
+Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
 
-#### FitEvent: 
+* <strong> Limits </strong>
+  * For fitness domain, it cannot provide exhaustive classcifications.
+  * For creating an event, it cannot push to the specific group.
+
+#### [FitEvent](https://fitevents.com/): 
 
 Majorly focus on providing professtional training classes and formal events to users. 
 
