@@ -51,9 +51,12 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 ## Product Survey
 #### [Boston Calendar](https://www.thebostoncalendar.com/)
 Majorly focus on finding under-publicized events around the city and surrounding areas for Bostonians (and non-locals).
+* <strong> Pros </strong>
+  * Provide mostly-free events around Boston for reddit user, young professional, and student.
+  * Redditors can add events, and events can be add to Reddit, iCal, and Google Calendar on the website.
 * <strong> Limits </strong>
-  * The number of event they collect is small.
-  * They don't have a category for fitness.
+  * The webpage design is quite simple.
+  * The webpage don't have a category for fitness.
 
 #### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
