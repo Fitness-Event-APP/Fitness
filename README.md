@@ -54,9 +54,9 @@ Majorly focus on finding under-publicized events around the city and surrounding
 * <strong> Pros </strong>
   * Provide mostly-free events around Boston for reddit user, young professional, and student.
   * Redditors can add events, and events can be add to Reddit, iCal, and Google Calendar on the website.
-* <strong> Limits </strong>
+* <strong> Cons </strong>
   * The webpage design is quite simple.
-  * The webpage don't have a category for fitness.
+  * The webpage don't have a specific category for fitness.
 
 #### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
