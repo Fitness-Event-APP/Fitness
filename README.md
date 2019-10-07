@@ -89,3 +89,20 @@ Most they presents are global events, holding in a location which is far away fr
 #### App
 
 * Android Studio
+
+## User Interface
+* The homepage of the app
+
+![HomePage](HomePage.png)
+
+* After click the event in the homepage. Jump to the event activity.
+
+![theFirstEvent](theFirstEvent.png)
+
+* Tab Bars
+
+![taBBar_to_dashboard](taBBar_to_dashboard.png)
+
+* User create event
+
+![creatEvent](creatEvent.png)
