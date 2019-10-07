@@ -72,9 +72,8 @@ Majorly focus on providing many kinds of events in a lot of places and creating 
 
 Majorly focus on providing professtional training classes and formal events to users. 
 
-#### Limits:
-
-Most they presents are global events, holding in a location which is far away from most people. For most people, they prefer choosing a event around their houses. 
+* <strong> Limits </strong>
+  * Most they presents are global events, holding in a location which is far away from most people. For most people, they prefer choosing a event around their houses. 
 
 ## System Design
 
