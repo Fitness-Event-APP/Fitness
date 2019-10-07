@@ -87,7 +87,7 @@ Majorly focus on providing professtional training classes and formal events to u
 
 #### App
 
-* Android Studio
+* Android Studio(eg.Viewmodel:automatically retained during configuration changes)
 
 ## User Interface
 * The homepage of the app
