@@ -83,7 +83,9 @@ Majorly focus on providing professtional training classes and formal events to u
 
 #### Database
 
-* Firebase( find the advantage of item, vs SQL)
+#### Why Choose Firebase not SQL? 
+
+* Pros: The core of Firebase is the real-time database. It doesn't have the restriction format, for example, SQL using tables to store data. User can use Firebase to store what they want without that kind of restriction. The Firebase also very friendy to Android (both of them are from Google). Besides, to build a connection with our database and Google map API, if we choose SQL, we also need to hava a intermediate knowledge about SQL, PHP and XML. But if we use Firebase, then just need to learn about the Firebase platform. 
 
 #### App
 
