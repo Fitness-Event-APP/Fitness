@@ -95,16 +95,16 @@ Majorly focus on providing professtional training classes and formal events to u
 ## User Interface
 * The homepage of the app
 
-![HomePage](HomePage.png)
+![HomePage](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/HomePage.png)
 
 * After click the event in the homepage. Jump to the event activity.
 
-![theFirstEvent](theFirstEvent.png)
+![theFirstEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/theFirstEvent.png)
 
 * Tab Bars
 
-![taBBar_to_dashboard](taBBar_to_dashboard.png)
+![taBBar_to_dashboard](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/taBBar_to_dashboard.png)
 
 * User create event
 
-![creatEvent](creatEvent.png)
+![creatEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/creatEvent.png)
