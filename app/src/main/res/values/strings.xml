@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FitnessEvent</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">notifications</string>
+    <string name="title_create">create</string>
+    <string name="title">Fitness Event in Boston</string>
+    <string name="title1">Boston Jogger Tour Celebration Run</string>
+    <string name="description">description</string>
+    <string name="contentOfDescription">Join us for the Boston Jogger Tour, presented by Marathon Sports and Hoka! We\'re running the streets throughout the fall season. Come to each event for some fun, custom swag, raffles, and more! We\'ll celebrate the final run at Sam Adams - all paces welcome! Here\'s the full list of our event series:\n\n\nMarathon Sports Boston 9/18 6:30PM\n\n\nMarathon Sports Wellesley 10/16 6:30PM\n\n\nMarathon Sports Cambridge 10/30 6:30PM\n\n\nMarathon Sports Brookline 11/7 6:30PM\n\n\nCelebration Run  Party at Sam Adams 11/23 10AM\n\n</string>
+    <string name="time1">2019-11-23 10:00:00 - 12:00:00</string>
+    <string name="location1">Samuel Adams Boston Brewery 30 Germania Street Boston, MA 02130</string>
+    <string name="running"> <li>running</li> </string>
+
+
+    <string name="name_hint">Please enter event name</string>
+    <string name="intro_hint">Please enter event introduction</string>
+    <string name="date_hint">Please enter date</string>
+    <string name="address_hint">Please enter address</string>
+    <string name="submit_msg">Submit</string>
+    <string name="name_tag">Event Name:</string>
+    <string name="intro_tag">Event Introduction:</string>
+    <string name="date_tag">Date:</string>
+    <string name="address_tag">Address:</string>
+</resources>
