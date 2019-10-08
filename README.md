@@ -27,6 +27,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 * I, as a bodybuilder, want to join bootcamps to communicate and exchange experiences on building bodies.
 
 ## Architecture
+![Architecture](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/Architecture.png)
 
 
 ## Target Users
