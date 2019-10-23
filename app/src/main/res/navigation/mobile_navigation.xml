@@ -24,9 +24,9 @@
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/navigation_create"
-        android:name="com.example.fitnessevent.navigation_create"
-        android:label="fragment_navigation_create"
-        tools:layout="@layout/fragment_navigation_create" />
+        android:name="com.example.fitnessevent.ui.create.CreateFragment"
+        android:label="@string/title_create"
+        tools:layout="@layout/fragment_create" />
 
 
 </navigation>

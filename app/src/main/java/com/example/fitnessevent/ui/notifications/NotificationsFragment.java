@@ -1,9 +1,11 @@
 package com.example.fitnessevent.ui.notifications;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.annotation.Nullable;
@@ -30,6 +32,16 @@ public class NotificationsFragment extends Fragment {
                 textView.setText(s);
             }
         });
+
+        Button btn_signUp = (Button)root.findViewById(R.id.EmailPassword);
+        btn_signUp.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent registerIntent = new Intent(getActivity(), EmailPasswordActivity.class);
+                startActivity(registerIntent);
+            }
+        });
+
         return root;
     }
 }

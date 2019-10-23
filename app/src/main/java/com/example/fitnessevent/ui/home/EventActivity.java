@@ -1,8 +1,10 @@
-package com.example.fitnessevent;
+package com.example.fitnessevent.ui.home;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.fitnessevent.R;
 
 public class EventActivity extends AppCompatActivity {
 

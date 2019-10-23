@@ -14,7 +14,6 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.fitnessevent.EventActivity;
 import com.example.fitnessevent.R;
 
 public class HomeFragment extends Fragment {
@@ -39,8 +38,8 @@ public class HomeFragment extends Fragment {
         button_title1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent myintent = new Intent(getActivity(), EventActivity.class);
-                startActivity(myintent);
+                Intent eventIntent = new Intent(getActivity(), EventActivity.class);
+                startActivity(eventIntent);
             }
         });
 
