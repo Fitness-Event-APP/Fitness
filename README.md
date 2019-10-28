@@ -44,6 +44,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 ## Product Survey
 #### [The Boston Calendar](https://www.thebostoncalendar.com/)
 ![TheBostonCalendar](img/TheBostonCalendar.png)
+
 Majorly focus on finding under-publicized events around the city and surrounding areas for Bostonians (and non-locals).
 * <strong> Pros </strong>
   * Provide mostly-free events around Boston for reddit user, young professional, and student.
@@ -55,17 +56,24 @@ Majorly focus on finding under-publicized events around the city and surrounding
 
 #### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
 ![eventbrite](img/eventbrite.png)
-Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
 
-* <strong> Limits </strong>
+Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
+* <strong> Pros </strong>
+  * Collect a rich set of events.
+  * Users are able to buy events tickets on it.
+  * Using Google Map to show events location.
+* <strong> Cons </strong>
   * For fitness domain, it cannot provide exhaustive classcifications.
   * For creating an event, it cannot push to the specific group.
 
 #### [FitEvents](https://fitevents.com/): 
 ![fitevents](img/fitevents.png)
-Majorly focus on providing professtional training classes and formal events to users. 
 
-* <strong> Limits </strong>
+Majorly focus on providing professtional training classes and formal events to users. 
+* <strong> Pros </strong>
+  * Users can submit their own event to the community to list, sell tickets and promote.
+  * Users can subscribe to the fitevents categories they are interested in.
+* <strong> Cons </strong>
   * Do not have mobile application.
   * Most they presents are global events, holding in a location which is far away from most people. For most people, they prefer choosing a event around their houses. 
 
