@@ -5,9 +5,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 ## Target Users
 * Athelete
-
 * Person who pursue losing weights
-
 * Person who want to keep fit
 
 ## User Story
@@ -37,38 +35,38 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 
 ## MVP
 * Background survey, Access to "join/create" an event.
-
 * Feedback(provide number of potential customers based on their activities to the event creator) and Notification.
-
 * Estimate the calorie consumption for each event.
-
 * User Interface
-
 * Utilize Google Map API
-
 * Social module for user-defined groups
 
 ## Product Survey
-#### [Boston Calendar](https://www.thebostoncalendar.com/)
+#### [The Boston Calendar](https://www.thebostoncalendar.com/)
+![TheBostonCalendar](img/TheBostonCalendar.png)
 Majorly focus on finding under-publicized events around the city and surrounding areas for Bostonians (and non-locals).
 * <strong> Pros </strong>
   * Provide mostly-free events around Boston for reddit user, young professional, and student.
   * Redditors can add events, and events can be add to Reddit, iCal, and Google Calendar on the website.
 * <strong> Cons </strong>
+  * Do not have mobile application.
   * The webpage design is quite simple.
   * The webpage don't have a specific category for fitness.
 
 #### [EventBrite](https://www.eventbrite.com/d/ma--boston/events/)
+![eventbrite](img/eventbrite.png)
 Majorly focus on providing many kinds of events in a lot of places and creating events to the public.
 
 * <strong> Limits </strong>
   * For fitness domain, it cannot provide exhaustive classcifications.
   * For creating an event, it cannot push to the specific group.
 
-#### [FitEvent](https://fitevents.com/): 
+#### [FitEvents](https://fitevents.com/): 
+![fitevents](img/fitevents.png)
 Majorly focus on providing professtional training classes and formal events to users. 
 
 * <strong> Limits </strong>
+  * Do not have mobile application.
   * Most they presents are global events, holding in a location which is far away from most people. For most people, they prefer choosing a event around their houses. 
 
 ## System Design
@@ -86,17 +84,13 @@ Majorly focus on providing professtional training classes and formal events to u
 
 ## User Interface
 * The homepage of the app
-
 ![HomePage](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/HomePage.png)
 
 * After click the event in the homepage. Jump to the event activity.
-
 ![theFirstEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/theFirstEvent.png)
 
 * Tab Bars
-
 ![taBBar_to_dashboard](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/taBBar_to_dashboard.png)
 
 * User create event
-
 ![creatEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/creatEvent.png)
