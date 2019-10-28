@@ -1,11 +1,16 @@
 # Fitness Event APP
 
 ## Product Mission
-
 This App is majorly specific for the users who is wiling to exercise. It help users search for the nearby fitness events by locating users position. Provide different events about fitness to meet the various need of the public. Also, for those who are interested in the same field, they can share their information and organize a new event by themselves.
 
-## User Story
+## Target Users
+* Athelete
 
+* Person who pursue losing weights
+
+* Person who want to keep fit
+
+## User Story
 * I, as an athlete, I would like to go to a place where hold a seminar about nutrition intake for the professional.
 
 * I, as an athlete, I would like to participate in an event where I can meet with other professionals in the same fields. We can work together on training and exchange our experience. 
@@ -30,16 +35,7 @@ This App is majorly specific for the users who is wiling to exercise. It help us
 ![Architecture](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/Architecture.png)
 
 
-## Target Users
-
-* Athelete
-
-* Person who pursue losing weights
-
-* Person who want to keep fit
-
 ## MVP
-
 * Background survey, Access to "join/create" an event.
 
 * Feedback(provide number of potential customers based on their activities to the event creator) and Notification.
@@ -70,7 +66,6 @@ Majorly focus on providing many kinds of events in a lot of places and creating 
   * For creating an event, it cannot push to the specific group.
 
 #### [FitEvent](https://fitevents.com/): 
-
 Majorly focus on providing professtional training classes and formal events to users. 
 
 * <strong> Limits </strong>
@@ -79,17 +74,14 @@ Majorly focus on providing professtional training classes and formal events to u
 ## System Design
 
 #### API
-
 * Google Map API, eventbrite API
 
 #### Database
 
 #### Why Choose Firebase not SQL? 
-
 * Pros: The core of Firebase is the real-time database. It doesn't have the restriction format, for example, SQL using tables to store data. User can use Firebase to store what they want without that kind of restriction. The Firebase also very friendy to Android (both of them are from Google). Besides, to build a connection with our database and Google map API, if we choose SQL, we also need to hava a intermediate knowledge about SQL, PHP and XML. But if we use Firebase, then just need to learn about the Firebase platform. 
 
 #### App
-
 * Android Studio(eg.Viewmodel:automatically retained during configuration changes)
 
 ## User Interface
