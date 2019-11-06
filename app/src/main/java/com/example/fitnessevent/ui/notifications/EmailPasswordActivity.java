@@ -1,7 +1,6 @@
 package com.example.fitnessevent.ui.notifications;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -11,7 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.fitnessevent.BaseActivity;
+import com.example.fitnessevent.ui.BaseActivity;
 import com.example.fitnessevent.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

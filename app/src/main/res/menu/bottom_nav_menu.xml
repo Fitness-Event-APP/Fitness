@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
 
     <item
         android:id="@+id/navigation_home"
@@ -21,6 +23,10 @@
         android:icon="@drawable/me"
         android:title="@string/title_notifications" />
 
-
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always"/>
 
 </menu>

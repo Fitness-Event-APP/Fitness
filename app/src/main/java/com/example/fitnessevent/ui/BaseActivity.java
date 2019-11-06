@@ -1,4 +1,4 @@
-package com.example.fitnessevent;
+package com.example.fitnessevent.ui;
 
 import androidx.annotation.VisibleForTesting;
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
+
+import com.example.fitnessevent.R;
 
 public class BaseActivity extends AppCompatActivity {
 

@@ -1,10 +1,11 @@
-package com.example.fitnessevent;
+package com.example.fitnessevent.ui;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.fitnessevent.R;
 import com.example.fitnessevent.ui.home.HomeFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.firebase.database.DatabaseReference;
