@@ -92,15 +92,7 @@ Majorly focus on providing professtional training classes and formal events to u
 #### App
 * Android Studio(eg.Viewmodel:automatically retained during configuration changes)
 
-## User Interface
-* The homepage of the app
-![HomePage](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/HomePage.png)
+## Sprint2 slide
+https://docs.google.com/presentation/d/1l6T0y_Ir_2tTSCEw53Uxm2SvkL_4gfNNL3P8KNi42RY/edit?usp=sharing
 
-* After click the event in the homepage. Jump to the event activity.
-![theFirstEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/theFirstEvent.png)
 
-* Tab Bars
-![taBBar_to_dashboard](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/taBBar_to_dashboard.png)
-
-* User create event
-![creatEvent](https://github.com/Fitness-Event-APP/Fitness/raw/master/img/creatEvent.png)
