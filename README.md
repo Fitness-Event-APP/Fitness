@@ -95,4 +95,7 @@ Majorly focus on providing professtional training classes and formal events to u
 ## Sprint2 slide
 https://docs.google.com/presentation/d/1l6T0y_Ir_2tTSCEw53Uxm2SvkL_4gfNNL3P8KNi42RY/edit?usp=sharing
 
+## Sprint3 
+* Achieve the function that display events from eventbriteapi in CardView format and relative detailed activity.
+* Use firestore as database to write and read events.
 
