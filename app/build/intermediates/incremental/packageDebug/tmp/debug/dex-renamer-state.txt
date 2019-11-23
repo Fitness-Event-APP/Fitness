@@ -1,0 +1,19 @@
+#Sat Nov 23 00:39:47 EST 2019
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/iris/Documents/EC601 Product Design in ECE/Fitness/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes2.dex
+base.4=/Users/iris/Documents/EC601 Product Design in ECE/Fitness/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.3=/Users/iris/Documents/EC601 Product Design in ECE/Fitness/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+base.2=/Users/iris/Desktop/Fitness-fitness_merge1/Fitness/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes2.dex
+base.1=/Users/iris/Desktop/Fitness-fitness_merge1/Fitness/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/Users/iris/Desktop/Fitness-fitness_merge1/Fitness/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.5=classes2.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes2.dex
