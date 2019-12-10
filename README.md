@@ -1,4 +1,6 @@
 # Fitness Event APP
+![poster](https://user-images.githubusercontent.com/9766409/70569934-e625b100-1b68-11ea-92b5-e759f34bd6cf.png)
+
 
 ## Product Mission
 This App is majorly specific for the users who is wiling to exercise. It help users search for the nearby fitness events by locating users position. Provide different events about fitness to meet the various need of the public. Also, for those who are interested in the same field, they can share their information and organize a new event by themselves.
