@@ -98,6 +98,11 @@ Majorly focus on providing professtional training classes and formal events to u
 https://docs.google.com/presentation/d/1l6T0y_Ir_2tTSCEw53Uxm2SvkL_4gfNNL3P8KNi42RY/edit?usp=sharing
 
 ## Sprint3 
-* Achieve the function that display events from eventbriteapi in CardView format and relative detailed activity.
-* Use firestore as database to write and read events.
+* [Display] Show fitness events in CardView and show detail in independent activity including picture, description, time, and venue in google map.
+* [Search] Full-Text Search fitness events according to users’ input of key words via Algolia Api which sync events in firestore achieved by index.js.
+* [Filter] Filter events by categories and cancel it.
+* [Like] Record user’s fitness events preference by clicking ❤️ button and display those.
+* [Create] Create new fitness events by user and display in ‘Home’ page and ‘Create’ page.
+* [Update] Users can update the event they just created.
+* [Authentication]  Authenticate users by their registered email and password
 
